@@ -1,3 +1,6 @@
+# UPDATE
+This is now part of Metasploit: https://github.com/rapid7/metasploit-framework/pull/12033
+
 # xor_context
 Metasploit context-keyed payload encoder
 
